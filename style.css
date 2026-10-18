@@ -1,0 +1,48 @@
+body{
+   margin:0px;
+   background-color: white;
+}
+
+.container{
+     width: 1000px;
+     margin: 0 auto;
+}
+
+.header{
+     width: 1000px;
+     height: 100px;
+     background: #333;
+     color: white;
+}
+
+.left{
+    width: 200px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.middle{
+      width: 540px;
+      display: inline-block;
+      vertical-align: top;
+}
+
+.right{
+      width: 200px;
+      display: inline-block;
+      vertical-align: top;
+}
+
+.footer{
+      width: 1000px;
+      height: 60px;
+      background: #333;
+      color: white;
+}
+
+
+
+
+
+
+     
